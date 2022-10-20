@@ -37,3 +37,4 @@ En la pantalla De **Game Over** tenemos dos botones que son para salir del juego
 - El .exe se lo mandamos por el correo. Se encuentra dentro de una carpeta con dos archivos (El exe debe mantenerse dentro de esa carpeta junto al archivo de extensión .pck para poder funcionar)
 - En caso hipotético de que se detectara como virus, desactivar el antivirus y correrlo normalmente.
 - El proyecto de godot se encuentra en el GitHub.
+- La carpeta que tiene el .exe se encuentra en el siguiente enlace: https://drive.google.com/file/d/1fgP58uGYxt7c6MpcxKQD2qWhfmm1Ic-8/view?usp=sharing
