@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/never_gonna_give_you_up.mp3-583d0725f3f2793506dcda11d48147e9.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/never_gonna_give_you_up.mp3"
+dest_files=[ "res://.import/never_gonna_give_you_up.mp3-583d0725f3f2793506dcda11d48147e9.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
